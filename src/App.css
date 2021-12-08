@@ -1,0 +1,43 @@
+body{
+  background-color: skyblue;
+
+}
+
+.App{
+  background-color: blue;
+  min-height: 500px;
+  width: 400px;
+  margin:center;
+  text-align: center;
+}
+
+button{
+  background-color: rgb(4, 78, 4);
+ 
+ 
+ 
+  color: aqua;
+  
+
+}
+
+h1{
+  color: black;
+  text-align: center;
+  min-height: 70px;
+  width:  550;
+  
+  
+  
+}
+p{
+  color: white;
+  text-align: left;
+}
+input{
+  text-shadow: 300px;
+}
+
+
+
+

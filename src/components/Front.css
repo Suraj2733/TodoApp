@@ -1,0 +1,53 @@
+body{
+  background-color: rgb(103, 162, 185);
+}
+.App{
+  background-color: rgb(250, 247, 247);  
+  min-height: 500px;
+  width: 400px;
+  margin:center;
+  text-align: center; 
+}
+
+.x{
+  background-color: green;
+  margin: 30px;
+  
+  font-size: 15px;
+  cursor: pointer;
+  color: aqua;
+}
+
+h1{
+  background-color: purple;
+  color: white;
+  text-align: center;
+  min-height: 50px;
+  width:  100;
+  font-style: chonburi;
+}
+
+input{
+  text-shadow: 300px;
+  font-size: 20px;
+  background-color: white;
+  margin-top: 0%;
+  text-align: left;
+  size: 50%;
+}
+
+p{
+  color: rgb(46, 45, 45);
+  position: relative;
+  font-size: 20px;
+  margin-right: 43%;
+  margin-top: 15%;   
+}
+
+
+
+
+
+
+
+

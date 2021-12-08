@@ -1,0 +1,81 @@
+body{
+  background-color: #9266ff;
+}
+.Cse{
+  background-color: white;
+  min-height: 500px;
+  width: 400px;
+  margin: 40px auto;
+  text-align: center;
+  size: 50%;
+}
+
+.m{
+  background-color: green;
+  cursor: pointer;
+  margin-left: 250px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  border-radius: 5px;
+
+}
+.n{
+  background-color: rgb(204, 58, 58);
+  cursor: pointer;
+  margin-left: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  border-radius: 5px;
+}
+.o{
+  
+  height: 20px;
+  width: 20px;
+}
+
+.l{
+  
+  height: 20px;
+  width: 20px;
+}
+.j{
+  background-color: rgb(224, 217, 217);
+  border-radius: 5px;
+}
+.r{
+  background-color: red;
+  cursor: pointer;   
+  position: relative;
+  margin-top: 80%;
+  font-size: 15px;
+  border-radius: 5px;
+  color: white; 
+}
+
+h2{
+  background-color: rgb(5, 57, 73);
+  position: relative;
+  font-size: 20px;
+  border-radius: 5px;
+  margin-left: 30%;
+  margin-right: 30%;
+  color: white;
+  
+}
+
+.d{
+  background-color: green;
+  cursor: pointer;   
+  position: relative;
+  margin-top: 80%;
+  font-size: 15px;
+  border-radius: 5px; 
+  margin: 2%;
+  color: white;
+}
+
+
