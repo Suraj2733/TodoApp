@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TodoApp/static/css/main.f58c621f.chunk.css",
+    "main.js": "/TodoApp/static/js/main.20df60fe.chunk.js",
+    "main.js.map": "/TodoApp/static/js/main.20df60fe.chunk.js.map",
+    "runtime-main.js": "/TodoApp/static/js/runtime-main.24d06fbb.js",
+    "runtime-main.js.map": "/TodoApp/static/js/runtime-main.24d06fbb.js.map",
+    "static/js/2.75f99b0e.chunk.js": "/TodoApp/static/js/2.75f99b0e.chunk.js",
+    "static/js/2.75f99b0e.chunk.js.map": "/TodoApp/static/js/2.75f99b0e.chunk.js.map",
+    "static/js/3.87a61aea.chunk.js": "/TodoApp/static/js/3.87a61aea.chunk.js",
+    "static/js/3.87a61aea.chunk.js.map": "/TodoApp/static/js/3.87a61aea.chunk.js.map",
+    "index.html": "/TodoApp/index.html",
+    "static/css/main.f58c621f.chunk.css.map": "/TodoApp/static/css/main.f58c621f.chunk.css.map",
+    "static/js/2.75f99b0e.chunk.js.LICENSE.txt": "/TodoApp/static/js/2.75f99b0e.chunk.js.LICENSE.txt",
+    "static/media/delete1.96d6efd6.png": "/TodoApp/static/media/delete1.96d6efd6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24d06fbb.js",
+    "static/js/2.75f99b0e.chunk.js",
+    "static/css/main.f58c621f.chunk.css",
+    "static/js/main.20df60fe.chunk.js"
+  ]
+}
