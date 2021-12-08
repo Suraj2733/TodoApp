@@ -9,9 +9,9 @@ export default function Header() {
     return (
       <div className="Cse">
           <h1>Todo List</h1>
-        <header>
+      <header>
           <div>
-            <h2>Show Items</h2>       
+          <h2>Show Items</h2>       
     <table >
      <tr>
        <td className='j'>
@@ -19,10 +19,12 @@ export default function Header() {
           <td>  
              <Link to ={'/sec'}>   
              <button className="m" >  
-             <img src={edit} className="o"/>  </button> 
+             <img src={edit} 
+             className="o"/>  </button> 
              </Link>
              <button className="n">   
-             <img src={delete1}  className="l"/> </button> 
+             <img src={delete1} 
+              className="l"/> </button > 
           </td>
           </td>     
       </tr>
