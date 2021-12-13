@@ -1,4 +1,28 @@
-import edit from './edit.png';
+import React from 'react';
+import Sec from './Sec';
+
+
+const Header = ({todos, setTodos, setInputText, inputText}) => {
+    return (
+        <div classNmae="todo-container">
+            <ul classNmae="todo-list">
+                {todos.map((todo) => (
+                    <Sec 
+                    todo={todo}
+                        todos={todos} 
+                        setTodos={setTodos}
+                        key={todo.id} 
+                        text={todo.text} 
+                        setInputText={setInputText}
+                        inputText={inputText}     
+                    />
+                ))}
+            </ul>             
+        </div>
+    );
+};
+export default Header;
+/*import edit from './edit.png';
 import delete1 from './delete1.png';
 import React from 'react';
 import './Header.css';
@@ -45,4 +69,4 @@ export default function Header() {
 
 
 
-//export default Sec; 
+//export default Sec; */

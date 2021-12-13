@@ -1,13 +1,25 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-//import './App.css';
-import Sec from './components/Sec';
+import './App.css';
+import Contact from "./Contact";
+/*import Sec from './components/Sec';
 import Header from './components/Header';
 import Front from './components/Front';
-
+*/
 import reportWebVitals from './reportWebVitals';
 
 
+
+ReactDOM.render(
+  <React.StrictMode>
+    <Contact/>
+  </React.StrictMode>,
+  document.getElementById('root')
+);
+
+reportWebVitals();
+
+/*
 import {
   BrowserRouter as Router,
   Switch,
@@ -48,3 +60,4 @@ ReactDOM.render(<App />, document.getElementById("root"));
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+*/
